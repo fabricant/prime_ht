@@ -1,0 +1,12 @@
+{
+  "name": "prime_ht",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "node-addon-api": "^4.3.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
